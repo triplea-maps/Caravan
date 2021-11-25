@@ -1,0 +1,5 @@
+map_name: Caravan
+games:
+- game_name: Caravan
+  file_name: Caravan.xml
+version: 0
